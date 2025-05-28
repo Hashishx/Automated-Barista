@@ -1,20 +1,20 @@
 # Automated-Barista
  A fully Autonomous robot arm that serves a coffee from A to Z
  This project is Arduino based
-
+ 
 Main components:
- Arduino Uno
- Servo driver 16 channels
- Mechnical design & 3d printed parts for robot and containers
- CNC Base
- Jumper wires
- Powwer supply
- Relay Modules
- Water pumps
- LCD 20 * 4
- Push buttons & switches
- Dispensers
- Mixer
+Arduino Uno
+Servo driver 16 channels
+Mechnical design & 3d printed parts for robot and containers
+CNC Base
+Jumper wires
+Powwer supply
+Relay Modules
+Water pumps
+LCD 20 * 4
+Push buttons & switches
+Dispensers
+Mixer
 
 System Sequence:
 1.	Start Trigger:
